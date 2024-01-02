@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/adminDashboard/static/css/main.5b218f73.css",
+    "main.js": "/adminDashboard/static/js/main.29cb06fc.js",
+    "static/js/787.15e37750.chunk.js": "/adminDashboard/static/js/787.15e37750.chunk.js",
+    "static/media/slider1.png": "/adminDashboard/static/media/slider1.006f0102d809607b3bc0.png",
+    "static/media/slider2.png": "/adminDashboard/static/media/slider2.ef3f8ab3f548ad59b7de.png",
+    "static/media/Vita Logo2.png": "/adminDashboard/static/media/Vita Logo2.04658a8b7b775128f751.png",
+    "static/media/product.png": "/adminDashboard/static/media/product.2e4bc1dbdd42b81d6956.png",
+    "index.html": "/adminDashboard/index.html",
+    "main.5b218f73.css.map": "/adminDashboard/static/css/main.5b218f73.css.map",
+    "main.29cb06fc.js.map": "/adminDashboard/static/js/main.29cb06fc.js.map",
+    "787.15e37750.chunk.js.map": "/adminDashboard/static/js/787.15e37750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b218f73.css",
+    "static/js/main.29cb06fc.js"
+  ]
+}
